@@ -2,7 +2,7 @@
 **✈️ Travel Memory — End-to-End MERN Stack Deployment on AWS**
 
 ---
-## 🧭 Overview
+## 🧭 Overview ##
 Welcome to the deployment guide for Travel Memory, a full-stack MERN application designed to capture and share travel experiences. This repository is a forked version of the original TravelMemory project, enhanced with structured DevOps practices and cloud deployment workflows.
 ---
 
