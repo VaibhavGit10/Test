@@ -29,7 +29,8 @@ By following this guide, you will:
 
 ## 🏗️ Architecture Diagram
 
-![Architecture](![Architecture](https://github.com/user-attachments/assets/0cfc1f18-8454-4216-bb36-adc669ad9f5f))
+![Architecture](https://github.com/user-attachments/assets/9bf15ee4-2393-45ed-bb90-bda86da28f6f)
+
 
 ---
 
