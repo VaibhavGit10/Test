@@ -30,7 +30,7 @@ By following this guide, you will:
 ## 🏗️ Architecture Diagram
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/9bf15ee4-2393-45ed-bb90-bda86da28f6f" width="70%" />
+  <img src="https://github.com/VaibhavGit10/Media_Repo/blob/main/Assignment_04_Devops_Output_Images/Architecture.png" width="70%" />
 </p>
 
 ---
