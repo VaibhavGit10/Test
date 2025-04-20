@@ -49,10 +49,13 @@ By following this guide, you will:
 
 #### 📸 Output Screenshots
 
-![SG](https://github.com/user-attachments/assets/df2efa5b-5375-41a3-aac7-26f1b03fcd4c)
-![SG_2](https://github.com/user-attachments/assets/5db3bd74-56d1-4307-9949-c0de7a6ba851)
-![SG_3](https://github.com/user-attachments/assets/b926593d-c503-4cfc-80e1-5941e3fc2790)
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/df2efa5b-5375-41a3-aac7-26f1b03fcd4c" width="45%" />
+  <img src="https://github.com/user-attachments/assets/5db3bd74-56d1-4307-9949-c0de7a6ba851" width="45%" />
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b926593d-c503-4cfc-80e1-5941e3fc2790" width="45%" />
+</p>
 
 ---
 
