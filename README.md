@@ -96,11 +96,18 @@ By following this guide, you will:
 
 #### 📸 Output Screenshots
 
-![LT_Img_06](https://github.com/user-attachments/assets/cac53227-7f01-4a6e-96d4-ba3064ab307f)
-![LT_Img_07](https://github.com/user-attachments/assets/c513a8d5-678e-4baa-826a-22d539f47d68)
-![LT_Img_08](https://github.com/user-attachments/assets/057fc65c-3aab-4794-b89a-36c99503b015)
-![LT_Img_09](https://github.com/user-attachments/assets/c323a506-fb16-4979-a572-489e74b4bd11)
-![LT_Img_10](https://github.com/user-attachments/assets/231864fd-2935-4ef7-9254-2a66dc8c29ba)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/cac53227-7f01-4a6e-96d4-ba3064ab307f" width="45%" />
+  <img src="https://github.com/user-attachments/assets/c513a8d5-678e-4baa-826a-22d539f47d68" width="45%" />
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/057fc65c-3aab-4794-b89a-36c99503b015" width="45%" />
+  <img src="https://github.com/user-attachments/assets/c323a506-fb16-4979-a572-489e74b4bd11" width="45%" />
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/231864fd-2935-4ef7-9254-2a66dc8c29ba" width="45%" />
+</p>
+
 
 ---
 
@@ -115,8 +122,10 @@ By following this guide, you will:
 
 #### 📸 Output Screenshots
 
-![TG_Img_11](https://github.com/user-attachments/assets/a471ef9a-12ac-495b-b130-6cc5da16f6da)
-![TG_Img_12](https://github.com/user-attachments/assets/b3c8d185-2fee-408c-88a5-552d7c1e952d)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a471ef9a-12ac-495b-b130-6cc5da16f6da" width="45%" />
+  <img src="https://github.com/user-attachments/assets/b3c8d185-2fee-408c-88a5-552d7c1e952d" width="45%" />
+</p>
 
 ---
 
@@ -133,9 +142,15 @@ By following this guide, you will:
 
 #### 📸 Output Screenshots
 
-![LB_Img_13](https://github.com/user-attachments/assets/5a3e0d3c-3184-49ea-acfb-3d1c54f8b33c)
-![TG_Img_13](https://github.com/user-attachments/assets/c90a106d-a21d-4ba7-93ec-a8a0d4710d9f)
-![TG_Img_14](https://github.com/user-attachments/assets/2bff2141-2571-4186-b7f1-4dd0384798a2)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5a3e0d3c-3184-49ea-acfb-3d1c54f8b33c" width="48%" />
+  <img src="https://github.com/user-attachments/assets/c90a106d-a21d-4ba7-93ec-a8a0d4710d9f" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2bff2141-2571-4186-b7f1-4dd0384798a2" width="48%" />
+</p>
+
 
 
 ---
@@ -160,20 +175,35 @@ By following this guide, you will:
 
 #### 📸 Output Screenshots 
 
-![ASG_Img_01](https://github.com/user-attachments/assets/001d2d67-e300-49ab-8174-d600617eb068)
-![ASG_Img_02](https://github.com/user-attachments/assets/ea0f8c06-90a4-43e0-a2fc-f637924d3f7b)
-![ASG_Img_03](https://github.com/user-attachments/assets/f2d2e057-cc00-4ab9-b5bb-c05127209026)
-![ASG_Img_04](https://github.com/user-attachments/assets/3c863023-ae08-4367-b32e-ff67aadfd8d2)
-![ASG_Img_05](https://github.com/user-attachments/assets/8f61dbda-43e9-4809-b956-2465a5b46677)
-![ASG_Img_06](https://github.com/user-attachments/assets/8b63a0c2-29f2-402c-9731-f2df070e0bd1)
-![ASG_Img_07](https://github.com/user-attachments/assets/fed7885b-fbf9-4f52-966f-1ab5d986663e)
-![ASG_Img_08](https://github.com/user-attachments/assets/568131e8-5f14-494e-9563-3485c46561bd)
-![ASG_Img_09](https://github.com/user-attachments/assets/ba6add95-d32d-4aa7-b00f-9fd437dfeca1)
-![ASG_Img_10](https://github.com/user-attachments/assets/3d401a05-1f53-430e-a930-81ae4ce16ffa)
-![ASG_Img_11](https://github.com/user-attachments/assets/f9c36bc2-0abd-4891-b65a-202d5d327857)
-![LB_Img_14](https://github.com/user-attachments/assets/71f93bdf-8a5e-4b38-b4f2-67f4c9a0254e)
-![LB_Img_15](https://github.com/user-attachments/assets/8a87df8c-8e3f-4e97-b1e1-00a0c0f168c8)
-![LB_Img_16](https://github.com/user-attachments/assets/c2c510e8-ce24-4730-a5a1-e4b88d4d9dfa)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/001d2d67-e300-49ab-8174-d600617eb068" width="48%" />
+  <img src="https://github.com/user-attachments/assets/ea0f8c06-90a4-43e0-a2fc-f637924d3f7b" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f2d2e057-cc00-4ab9-b5bb-c05127209026" width="48%" />
+  <img src="https://github.com/user-attachments/assets/3c863023-ae08-4367-b32e-ff67aadfd8d2" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8f61dbda-43e9-4809-b956-2465a5b46677" width="48%" />
+  <img src="https://github.com/user-attachments/assets/8b63a0c2-29f2-402c-9731-f2df070e0bd1" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/fed7885b-fbf9-4f52-966f-1ab5d986663e" width="48%" />
+  <img src="https://github.com/user-attachments/assets/568131e8-5f14-494e-9563-3485c46561bd" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ba6add95-d32d-4aa7-b00f-9fd437dfeca1" width="48%" />
+  <img src="https://github.com/user-attachments/assets/3d401a05-1f53-430e-a930-81ae4ce16ffa" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f9c36bc2-0abd-4891-b65a-202d5d327857" width="48%" />
+  <img src="https://github.com/user
+
 
 ---
 
@@ -194,8 +224,11 @@ By following this guide, you will:
 #### 📸 Output Screenshots 
 
 
-![CF_Img_01](https://github.com/user-attachments/assets/9aac9230-a23d-46ff-8fbf-721764d618ff)
-![CF_Img_02](https://github.com/user-attachments/assets/5f71b1b2-55e8-43ea-9c86-349e9a1c0d4c)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9aac9230-a23d-46ff-8fbf-721764d618ff" width="48%" />
+  <img src="https://github.com/user-attachments/assets/5f71b1b2-55e8-43ea-9c86-349e9a1c0d4c" width="48%" />
+</p>
+
 
 
 ---
@@ -239,10 +272,16 @@ By following this guide, you will:
 
 #### 📸 Output Screenshots 
 
-![FE_IMG_01](https://github.com/user-attachments/assets/f0006406-a585-4665-bf13-8e3ebc59c659)
-![FE_IMG_02](https://github.com/user-attachments/assets/c5906a50-45a5-4083-9129-3927639e8520)
-![FE_IMG_03](https://github.com/user-attachments/assets/468c0c35-6c75-4a73-9dae-6f7dc77381a5)
-![FE_IMG_04](https://github.com/user-attachments/assets/a0d678cc-9252-473e-bcf4-f14cf135d27f)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f0006406-a585-4665-bf13-8e3ebc59c659" width="45%" />
+  <img src="https://github.com/user-attachments/assets/c5906a50-45a5-4083-9129-3927639e8520" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/468c0c35-6c75-4a73-9dae-6f7dc77381a5" width="45%" />
+  <img src="https://github.com/user-attachments/assets/a0d678cc-9252-473e-bcf4-f14cf135d27f" width="45%" />
+</p>
+
 
 ---
 
@@ -262,9 +301,13 @@ By following this guide, you will:
 
 #### 📸 Output Screenshots 
 
-![Screenshot 2025-04-20 115056](https://github.com/user-attachments/assets/d76673eb-d6ec-4c67-9252-f47fe24e33d5)
-![Screenshot 2025-04-19 172228](https://github.com/user-attachments/assets/faadff31-5838-421c-83ae-d63957bab95a)
-![FE_IMG_05](https://github.com/user-attachments/assets/f873107a-4200-40bc-a8b8-9fef14339424)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d76673eb-d6ec-4c67-9252-f47fe24e33d5" width="45%" />
+  <img src="https://github.com/user-attachments/assets/faadff31-5838-421c-83ae-d63957bab95a" width="45%" />
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f873107a-4200-40bc-a8b8-9fef14339424" width="45%" />
+</p>
 
 
 ---
