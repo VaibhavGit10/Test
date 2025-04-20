@@ -1,5 +1,5 @@
 # 🌐 B10_Vaibhav_Pawar_Assignment_04
-**✈️ Travel Memory — End-to-End MERN Stack Deployment on AWS**
+*✈️ Travel Memory — End-to-End MERN Stack Deployment on AWS*
 
 ---
 ## 🧭 Overview ##
