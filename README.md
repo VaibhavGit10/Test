@@ -54,6 +54,7 @@ By following this guide, you will:
   <img src="https://github.com/user-attachments/assets/df2efa5b-5375-41a3-aac7-26f1b03fcd4c" width="45%" />
   <img src="https://github.com/user-attachments/assets/5db3bd74-56d1-4307-9949-c0de7a6ba851" width="45%" />
 </p>
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/b926593d-c503-4cfc-80e1-5941e3fc2790" width="45%" />
 </p>
@@ -101,10 +102,12 @@ By following this guide, you will:
   <img src="https://github.com/user-attachments/assets/cac53227-7f01-4a6e-96d4-ba3064ab307f" width="45%" />
   <img src="https://github.com/user-attachments/assets/c513a8d5-678e-4baa-826a-22d539f47d68" width="45%" />
 </p>
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/057fc65c-3aab-4794-b89a-36c99503b015" width="45%" />
   <img src="https://github.com/user-attachments/assets/c323a506-fb16-4979-a572-489e74b4bd11" width="45%" />
 </p>
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/231864fd-2935-4ef7-9254-2a66dc8c29ba" width="45%" />
 </p>
