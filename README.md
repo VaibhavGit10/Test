@@ -6,7 +6,7 @@ This repository contains a set of Node.js microservices—**User Service**, **Pr
 
 ## 📁 Project Structure
 
----bash
+```bash
 .
 ├── user-service/ # User Service (Port 3000)
 │ └── Dockerfile
@@ -19,4 +19,4 @@ This repository contains a set of Node.js microservices—**User Service**, **Pr
 │
 ├── docker-compose.yml # Multi-container orchestration file
 └── README.md
----
+```
