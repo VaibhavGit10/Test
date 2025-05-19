@@ -92,4 +92,27 @@ docker-compose ps
 | Gateway Service   | 3003     | `http://localhost:3003/api`   | `/users`, `/products`, `/orders`         |
 
 
+## 🧪 Testing
+
+You can use `curl`, **Postman**, or your browser to hit these endpoints:
+
+```bash
+# 🧍 Users
+curl http://localhost:3000/users
+
+# 📦 Products
+curl http://localhost:3001/products
+
+# 📑 Orders
+curl http://localhost:3002/orders
+
+# 🌐 Gateway
+curl http://localhost:3003/api/users
+curl http://localhost:3003/api/products
+curl http://localhost:3003/api/orders
+```
+
+### A successful response will return a JSON array (or placeholder message) from each service.
+
+
 
