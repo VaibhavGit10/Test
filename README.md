@@ -123,5 +123,18 @@ curl http://localhost:3003/api/orders
 | Code changes not reflected               | Rebuild images: `docker-compose up --
 
 
+## 🤝 Contributing
+
+1. Fork this repository  
+2. Create a feature branch (`git checkout -b feature/YourFeature`)  
+3. Commit your changes (`git commit -m "Add awesome feature"`)  
+4. Push to the branch (`git push origin feature/YourFeature`)  
+5. Open a Pull Request  
+
+---
+
+## 📄 License
+
+Distributed under the **Apache-2.0** License. See [`LICENSE`](./LICENSE) for details.
 
 
