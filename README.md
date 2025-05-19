@@ -80,7 +80,7 @@ Edit
 docker-compose ps
 ```
 
-### Each service should now be accessible on localhost under its designated port.
+## Each service should now be accessible on localhost under its designated port.
 
 ## 🧩 Service Endpoints
 
@@ -112,7 +112,16 @@ curl http://localhost:3003/api/products
 curl http://localhost:3003/api/orders
 ```
 
-### A successful response will return a JSON array (or placeholder message) from each service.
+## A successful response will return a JSON array (or placeholder message) from each service.
+
+## 🛠️ Troubleshooting
+
+| **Issue**                                | **Solution**                                                                 |
+|------------------------------------------|------------------------------------------------------------------------------|
+| Ports 3000–3003 already in use           | Free up or change the port mappings in `docker-compose.yml`.               |
+| Containers crash on start                | Inspect logs: `docker-compose logs <service-name>`                         |
+| Code changes not reflected               | Rebuild images: `docker-compose up --
+
 
 
 
