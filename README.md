@@ -39,3 +39,48 @@ This project demonstrates how to containerize and orchestrate multiple Node.js m
 ├── docker-compose.yml # Compose file spinning up all four services
 └── README.md 
 ```
+
+
+## 🚀 Prerequisites
+
+- **Docker** (v20.10+)  
+- **Docker Compose** (v1.29+)
+
+Verify your installation:
+
+```bash
+docker --version
+docker-compose --version
+```
+
+## ⚙️ Quick Start
+
+1.Clone the repo
+
+```bash
+Copy
+Edit
+git clone https://github.com/VaibhavGit10/-Vaibhav_Microservices-Task.git
+cd -Vaibhav_Microservices-Task
+```
+
+2.Build & start services
+
+```bash
+Copy
+Edit
+docker-compose up --build
+```
+
+3.Verify containers are running
+
+```bash
+Copy
+Edit
+docker-compose ps
+```
+
+Each service should now be accessible on localhost under its designated port.
+
+
+
