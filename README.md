@@ -82,12 +82,14 @@ docker-compose ps
 
 Each service should now be accessible on localhost under its designated port.
 
-## 📡 Service Endpoints
-Service	Port	      Base    URL	                      Sample Endpoint
-User Service	      3000    http://localhost:3000	    /users
-Product Service	    3001	  http://localhost:3001	    /products
-Order Service	      3002	  http://localhost:3002	    /orders
-Gateway Service   	3003	  http://localhost:3003     /api	/users, /products, /orders
+## 🧩 Service Endpoints
+
+| **Service**       | **Port** | **Base URL**                  | **Sample Endpoint**                      |
+|-------------------|----------|-------------------------------|------------------------------------------|
+| User Service      | 3000     | `http://localhost:3000`       | `/users`                                 |
+| Product Service   | 3001     | `http://localhost:3001`       | `/products`                              |
+| Order Service     | 3002     | `http://localhost:3002`       | `/orders`                                |
+| Gateway Service   | 3003     | `http://localhost:3003/api`   | `/users`, `/products`, `/orders`         |
 
 
 
