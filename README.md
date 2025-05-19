@@ -1,22 +1,41 @@
-# 🛠️ Node.js Microservices with Docker Compose
+# 🎯 Vaibhav Microservices Task
 
-This repository contains a set of Node.js microservices—**User Service**, **Product Service**, and **Gateway Service**—containerized using Docker and orchestrated with Docker Compose. Each service runs independently and communicates over a local network.
+A Docker-Compose orchestrated set of four Node.js microservices:
+
+- **User Service** (port 3000)  
+- **Product Service** (port 3001)  
+- **Order Service** (port 3002)  
+- **Gateway Service** (port 3003)
 
 ---
 
-## 📁 Project Structure
+## 📖 Overview
+
+This project demonstrates how to containerize and orchestrate multiple Node.js microservices using Docker Compose. Each service exposes a simple REST endpoint and communicates through the Gateway.
+
+---
+
+## 🗂️ Repository Structure
+
 
 ```bash
 .
-├── user-service/ # User Service (Port 3000)
-│ └── Dockerfile
+├── user-service/ # User Service (Node.js + Express)
+│ ├── Dockerfile
+│ └── index.js
 │
-├── product-service/ # Product Service (Port 3001)
-│ └── Dockerfile
+├── product-service/ # Product Service (Node.js + Express)
+│ ├── Dockerfile
+│ └── index.js
 │
-├── gateway-service/ # Gateway Service (Port 3003)
-│ └── Dockerfile
+├── order-service/ # Order Service (Node.js + Express)
+│ ├── Dockerfile
+│ └── index.js
 │
-├── docker-compose.yml # Multi-container orchestration file
-└── README.md
+├── gateway-service/ # API Gateway (Node.js + Express + http-proxy-middleware)
+│ ├── Dockerfile
+│ └── index.js
+│
+├── docker-compose.yml # Compose file spinning up all four services
+└── README.md 
 ```
