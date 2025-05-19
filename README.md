@@ -55,7 +55,7 @@ docker-compose --version
 
 ## ⚙️ Quick Start
 
-1.Clone the repo
+## 1.Clone the repo
 
 ```bash
 Copy
@@ -64,7 +64,7 @@ git clone https://github.com/VaibhavGit10/-Vaibhav_Microservices-Task.git
 cd -Vaibhav_Microservices-Task
 ```
 
-2.Build & start services
+## 2.Build & start services
 
 ```bash
 Copy
@@ -72,7 +72,7 @@ Edit
 docker-compose up --build
 ```
 
-3.Verify containers are running
+## 3.Verify containers are running
 
 ```bash
 Copy
