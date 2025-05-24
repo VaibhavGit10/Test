@@ -201,13 +201,11 @@ PORT=5000
 
 <hr />
 
-```
 
+#### 📸 Configure Github Secrets Screenshot
 
-#### 📸 Configure Github Secrets Screenshots
+![image](https://github.com/user-attachments/assets/43667091-c3c6-49fc-ae5e-fce79ee9469d)
 
-![GA_ENV_01](https://github.com/JOYSTON-LEWIS/My-Media-Repository/blob/main/Assignment_06_DevOps_Outputs_Images/GA_ENV_01.png)
-![GA_ENV_02](https://github.com/JOYSTON-LEWIS/My-Media-Repository/blob/main/Assignment_06_DevOps_Outputs_Images/GA_ENV_02.png)
 
 #### 📸 Output Screenshots
 
